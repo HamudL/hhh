@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://use.fontawesome.com;
+    font-src 'self' https://fonts.gstatic.com https://use.fontawesome.com;
+    script-src 'self' https://kit.fontawesome.com;
+    connect-src 'self' https://ka-f.fontawesome.com;
+">
+    <title>HamudL</title>
+    <link rel="stylesheet" href="/css/Gallery-style.css">
+    <script src="https://kit.fontawesome.com/77c38870fe.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <ul class="navbar">
+        <li class="Home"><a href="Index.html">Home</a></li>
+        <li class="Gallery"><a href="Gallery.html">Gallery</a></li>
+        <li class="Upload"><a href="Upload.html">Upload</a></li>
+        <li class="About"><a href="About.html">About</a></li>
+        <li class="Contact"><a href="Contact.html">Contact</a></li>
+    </ul>
+
+    <div class="GalleryContainer">
+        <div class="gallery" id="gallery"></div> <!-- Updated to be filled dynamically -->
+    </div>
+
+    <!-- SIDEBAR MOBILE -->
+    <div class="header"></div>
+    <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
+    <label for="openSidebarMenu" class="sidebarIconToggle">
+        <div class="spinner diagonal part-1"></div>
+        <div class="spinner horizontal"></div>
+        <div class="spinner diagonal part-2"></div>
+    </label>
+    <div id="sidebarMenu">
+        <ul class="sidebarMenuInner">
+            <li>HamudL King <span>King of HamudL</span></li>
+            <li class="Home"><a href="Index.html">Home</a></li>
+            <li class="Gallery"><a href="Gallery.html">Gallery</a></li>
+            <li class="Upload"><a href="Upload.html">Upload</a></li>
+            <li class="About"><a href="About.html">About</a></li>
+            <li class="Contact"><a href="Contact.html">Contact</a></li>
+        </ul>
+    </div>
+    <!-- SIDEBAR MOBILE -->
+
+    <footer class="footer">
+        <ul>
+            <li><a href="#" class="twitter"><i class="fa-brands fa-twitter fa-1xl" style="color: #b3aeae;"></i> Twitter</a></li>
+            <li><a href="#" class="youtube"><i class="fa-brands fa-youtube fa-1xl" style="color: #b3aeae;"></i> YouTube</a></li>
+            <li><a href="#" class="discord"><i class="fa-brands fa-discord fa-1xl" style="color: #b3aeae;"></i> Discord</a></li>
+            <li><a href="#" class="instagram"><i class="fa-brands fa-instagram fa-1xl" style="color: #b3aeae;"></i> Instagram</a></li>
+        </ul>
+    </footer>
+    <script src="/js/script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            fetch('/gallery')
+                .then(response => response.json())
+                .then(images => {
+                    const gallery = document.getElementById('gallery');
+                    images.forEach(img => {
+                        const image = document.createElement('img');
+                        image.src = img.src;
+                        image.alt = img.alt;
+                        image.loading = 'lazy';
+                        gallery.appendChild(image);
+                    });
+                })
+                .catch(error => console.error('Error loading images:', error));
+        });
+    </script>
+</body>
+</html>

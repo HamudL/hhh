@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+
+html {
+  height: 100%;
+}
+
+
+body {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  background-image: url(/images/bg.jpg);
+  box-shadow: inset 0 0 1110px 10000px rgba(0,0,0,.6);
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+  body{
+    background-size: 450%;
+    background-position: center;
+  }
+}
+
+.glow {
+  position: absolute;
+  float: left;
+  color: rgb(255, 255, 255);
+  margin-top: 40px;
+  font-size: 50px;
+  align-items: center;
+  justify-content: center;
+  -webkit-animation: glow 3s ease-in-out infinite alternate;
+  -moz-animation: glow 3s ease-in-out infinite alternate;
+  animation: glow 3s ease-in-out infinite alternate;
+}
+
+@media only screen and (max-width: 600px) {
+  .glow {
+    font-size: 200%;
+  }
+
+}
+
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000;
+}
+  to {
+    text-shadow: 0 0 20px #292828, 0 0 30px #292828, 0 0 40px #292828, 0 0 50px #292828, 0 0 60px #292828, 0 0 70px #292828, 0 0 80px #292828;
+}
+
+}  
+
+
+.navbar {
+  align-items: center;
+  background: transparent;
+  backdrop-filter: blur(10px);
+  margin-top: auto;
+  margin-bottom: auto;
+  padding: 10px 35px;
+  border-radius: 12px;
+  box-shadow: 0 15px 20px 5px rgba(0, 0, 0, 0.8);
+}
+
+.navbar li {
+  list-style: none;
+  margin: 20px 1px ;
+}
+.navbar li a{
+  position: relative;
+  color: #b3aeae;
+  font-size: 40px;
+  font-weight: bolder;
+  padding: 6px 0px;
+  text-decoration: none;
+}
+
+.navbar li a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 5px;
+  border-radius: 10px;
+  background: #444343;
+  transition: width .3s;
+}
+
+.navbar li a:hover::after {
+  width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar {
+    backdrop-filter: blur(15px);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar li a {
+    font-size: 200%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar {
+    margin-top: 50%;
+  }
+
+
+}
+
+#wrap {
+  overflow: visible;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 auto;
+}
+
+#lightings {
+  bottom: -60px;
+  position: absolute;
+  width: 100%;
+}
+
+section {
+  border-radius: 50%;
+  height: 20px;
+  width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+#one {
+  -webkit-animation: one 5s ease-in-out infinite alternate;
+  animation: one 5s ease-in-out infinite alternate;
+}
+
+@keyframes one {
+  from {
+    box-shadow: 0 0 20px 20px #473C78;
+}
+
+  to {
+    box-shadow: 0 0 20px 15px #F72A3B;
+}
+
+}
+
+#two {
+  width: 90%;
+  -webkit-animation: two 4s ease-in-out infinite alternate;
+  animation: two 4s ease-in-out infinite alternate;
+}
+
+@keyframes two {
+  from {
+    box-shadow: 0 0 110px 40px #18C499;
+}
+
+  to {
+    box-shadow: 0 0 20px 15px #D8F05E;
+}
+
+}
+
+#three {
+  width: 80%;
+  -webkit-animation: three 3s ease-in-out infinite alternate;
+  animation: three 3s ease-in-out infinite alternate;
+}
+
+@keyframes three {
+  from {
+    box-shadow: 0 0 110px 40px #FFDD00;
+}
+
+  to {
+    box-shadow: 0 0 20px 15px #3E33FF;
+}
+
+}
+
+#four {
+  width: 70%;
+  -webkit-animation: four 2s ease-in-out infinite alternate;
+  animation: four 2s ease-in-out infinite alternate;
+}
+
+@keyframes four {
+  from {
+    box-shadow: 0 0 110px 40px #781848;
+}
+
+  to {
+    box-shadow: 0 0 20px 15px #F2BBE9;
+}
+
+}
+
+#five {
+  width: 60%;
+  -webkit-animation: five 1s ease-in-out infinite alternate;
+  animation: five 1s ease-in-out infinite alternate;
+}
+
+@keyframes five {
+  from {
+    box-shadow: 0 0 110px 40px #42F2A1;
+}
+
+  to {
+    box-shadow: 0 0 20px 15px #F4F6AD;
+}
+
+}
