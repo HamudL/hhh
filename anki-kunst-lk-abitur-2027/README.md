@@ -3,17 +3,17 @@
 Ein sorgfältig recherchierter, faktengeprüfter Karteikarten-Satz (Anki) für das
 **Leistungsfach Bildende Kunst**, Abiturjahrgang **2027**, **Baden-Württemberg**.
 
-**262 Karten**, aufgeteilt in Prüfungswissen, Methodik und die drei offiziellen
-Schwerpunktthemen mit allen zugehörigen künstlerischen Positionen.
+**209 Karten**, aufgeteilt in Prüfungswissen, Methodik und die beiden unterrichteten
+Schwerpunktthemen **SP1** und **SP2** mit allen zugehörigen künstlerischen Positionen.
 
 ---
 
 ## 📌 Wichtig zuerst lesen
 
-- Deine Lehrkraft unterrichtet laut Erlass **zwei der drei** Schwerpunktthemen.
-  Nur diese zwei sind bei **dir** prüfungsrelevant. Dieses Set deckt sicherheitshalber
-  **alle drei** ab – du kannst den Unterstapel des nicht behandelten Themas einfach
-  löschen oder auf „Suspendieren“ setzen.
+- Die Lehrkraft unterrichtet laut Erlass **zwei der drei** Schwerpunktthemen; hier sind
+  das **SP1 (Körper – Raum – Bewegung)** und **SP2 (Figur im Kontext)**. SP3
+  (Wohnkonzepte und Gebäudestrukturen) ist daher **nicht enthalten** — eine frühere
+  Version mit SP3-Karten liegt in der Git-Historie.
 - Der Satz ist **text- und begriffsbasiert**. Für das Wiedererkennen konkreter Werke
   solltest du zusätzlich mit Abbildungen deiner Lehrmaterialien arbeiten (aus
   Urheberrechts- und Verlässlichkeitsgründen sind hier keine Bilder eingebettet).
@@ -24,11 +24,11 @@ Schwerpunktthemen mit allen zugehörigen künstlerischen Positionen.
 
 Die Fachlehrkraft wählt **2 von 3**:
 
-| Nr. | Schwerpunktthema | Künstlerische Positionen |
-|-----|------------------|--------------------------|
-| **SP 1** | Körper – Raum – Bewegung | Gian Lorenzo Bernini · Oskar Schlemmer *(Triadisches Ballett & Bauhaus-Tänze)* · Rebecca Horn *(ohne Filme)* |
-| **SP 2** | Figur im Kontext | Giotto di Bondone · Francis Bacon · Sibylle Bergemann |
-| **SP 3** | Wohnkonzepte und Gebäudestrukturen | Le Corbusier *(realisierte Wohngebäude ab 1920)* · Bjarke Ingels Group (BIG) |
+| Nr. | Schwerpunktthema | Künstlerische Positionen | Im Deck? |
+|-----|------------------|--------------------------|:--:|
+| **SP 1** | Körper – Raum – Bewegung | Gian Lorenzo Bernini · Oskar Schlemmer *(Triadisches Ballett & Bauhaus-Tänze)* · Rebecca Horn *(ohne Filme)* | ✅ |
+| **SP 2** | Figur im Kontext | Giotto di Bondone · Francis Bacon · Sibylle Bergemann | ✅ |
+| **SP 3** | Wohnkonzepte und Gebäudestrukturen | Le Corbusier · Bjarke Ingels Group (BIG) | ❌ *(wird nicht unterrichtet)* |
 
 > Im Leistungsfach sind bei SP 2 **alle drei** Positionen verpflichtend und gleichrangig.
 > Oskar Schlemmer (SP 1) ist **nur im Leistungsfach** vorgesehen.
@@ -39,12 +39,11 @@ Die Fachlehrkraft wählt **2 von 3**:
 
 | Unterstapel | Karten |
 |-------------|:------:|
-| 00 Prüfung & Themen (Format · Organisation · Themen-Überblick) | 32 |
+| 00 Prüfung & Themen (Format · Organisation · Themen-Überblick) | 29 |
 | 01 Methodik & Fachbegriffe (Bildanalyse, Perspektive, Farbe, Plastik …) | 35 |
-| SP 1 – Bernini / Schlemmer / Horn | 27 / 23 / 22 |
-| SP 2 – Giotto / Bacon / Bergemann | 26 / 27 / 22 |
-| SP 3 – Le Corbusier / BIG | 25 / 23 |
-| **Gesamt** | **262** |
+| SP 1 – Bernini / Schlemmer / Horn | 27 / 23 / 21 |
+| SP 2 – Giotto / Bacon / Bergemann | 25 / 27 / 22 |
+| **Gesamt** | **209** |
 
 Eine vollständige, menschenlesbare Liste **aller Karten inkl. Quellen** steht in
 [`UEBERSICHT.md`](UEBERSICHT.md).

@@ -34,10 +34,6 @@ CATS = [
          label="Francis Bacon", tags=["SP2_Figur_im_Kontext", "Francis_Bacon"]),
     dict(key="bergemann",   file="cards_bergemann.json",    deck="dSP2", thema="SP2 Figur im Kontext · Sibylle Bergemann",
          label="Sibylle Bergemann", tags=["SP2_Figur_im_Kontext", "Sibylle_Bergemann"]),
-    dict(key="lecorbusier", file="cards_lecorbusier.json",  deck="dSP3", thema="SP3 Wohnkonzepte & Gebaeudestrukturen · Le Corbusier",
-         label="Le Corbusier", tags=["SP3_Wohnkonzepte_Gebaeudestrukturen", "Le_Corbusier"]),
-    dict(key="big",         file="cards_big.json",          deck="dSP3", thema="SP3 Wohnkonzepte & Gebaeudestrukturen · BIG",
-         label="Bjarke Ingels Group (BIG)", tags=["SP3_Wohnkonzepte_Gebaeudestrukturen", "Bjarke_Ingels_Group"]),
 ]
 
 DECKS = {
@@ -45,7 +41,6 @@ DECKS = {
     "d01":  (1642010113, "Kunst LK Abitur 2027 (BW)::01 Methodik & Fachbegriffe"),
     "dSP1": (1642010114, "Kunst LK Abitur 2027 (BW)::SP1 Körper – Raum – Bewegung"),
     "dSP2": (1642010115, "Kunst LK Abitur 2027 (BW)::SP2 Figur im Kontext"),
-    "dSP3": (1642010116, "Kunst LK Abitur 2027 (BW)::SP3 Wohnkonzepte & Gebäudestrukturen"),
 }
 
 MODEL = genanki.Model(
@@ -145,8 +140,8 @@ def main():
         fh.write(f"**Gesamt: {total} Karten.** Alle Inhalte basieren auf den offiziellen Vorgaben "
                  "(Facherlass für die Abiturprüfung 2027 BW, Kap. 14 Bildende Kunst; "
                  "offizielles Schwerpunktthema-II-Dokument „Figur im Kontext“) sowie auf geprüften Fachquellen.\n")
-        fh.write("\n> Hinweis: Deine Lehrkraft unterrichtet **zwei der drei** Schwerpunktthemen. "
-                 "Dieses Set deckt sicherheitshalber **alle drei** ab.\n")
+        fh.write("\n> Hinweis: Dieses Set deckt die **unterrichteten Schwerpunktthemen SP1 und SP2** ab "
+                 "(SP3 wird von der Lehrkraft nicht unterrichtet und ist daher nicht enthalten).\n")
         fh.write("\n".join(md_sections))
 
     print("apkg :", apkg_path)

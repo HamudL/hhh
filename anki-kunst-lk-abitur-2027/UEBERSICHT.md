@@ -1,11 +1,11 @@
 # Kartenuebersicht – Kunst LK Abitur 2027 (Baden-Württemberg)
 
-**Gesamt: 262 Karten.** Alle Inhalte basieren auf den offiziellen Vorgaben (Facherlass für die Abiturprüfung 2027 BW, Kap. 14 Bildende Kunst; offizielles Schwerpunktthema-II-Dokument „Figur im Kontext“) sowie auf geprüften Fachquellen.
+**Gesamt: 209 Karten.** Alle Inhalte basieren auf den offiziellen Vorgaben (Facherlass für die Abiturprüfung 2027 BW, Kap. 14 Bildende Kunst; offizielles Schwerpunktthema-II-Dokument „Figur im Kontext“) sowie auf geprüften Fachquellen.
 
-> Hinweis: Deine Lehrkraft unterrichtet **zwei der drei** Schwerpunktthemen. Dieses Set deckt sicherheitshalber **alle drei** ab.
+> Hinweis: Dieses Set deckt die **unterrichteten Schwerpunktthemen SP1 und SP2** ab (SP3 wird von der Lehrkraft nicht unterrichtet und ist daher nicht enthalten).
 
 ## Pruefungsformat & Organisation  
-*Thema-Tag:* `Pruefung & Organisation` — **17 Karten**
+*Thema-Tag:* `Pruefung & Organisation` — **15 Karten**
 
 1. **F:** Auf welcher Grundlage beruhen Unterricht und Abiturpruefung im Fach Bildende Kunst in Baden-Wuerttemberg?  
    **A:** Auf den im Bildungsplan 2016 ausgewiesenen Inhalten und Kompetenzen sowie den Einheitlichen Pruefungsanforderungen (EPA) Kunst der KMK.  
@@ -27,57 +27,49 @@
    **A:** Giotto di Bondone, Francis Bacon und Sibylle Bergemann.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-6. **F:** Welche Positionen gehoeren zum Schwerpunktthema 3 'Wohnkonzepte und Gebaeudestrukturen'?  
-   **A:** Le Corbusier (realisierte Wohngebaeude ab 1920) und die Bjarke Ingels Group (BIG; realisierte Wohngebaeude).  
-   <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
-
-7. **F:** Woraus besteht die schriftliche Abiturpruefung im Leistungsfach Bildende Kunst (BW) und wie ist sie gewichtet?  
+6. **F:** Woraus besteht die schriftliche Abiturpruefung im Leistungsfach Bildende Kunst (BW) und wie ist sie gewichtet?  
    **A:** Aus einer Klausurarbeit UND einer fachpraktischen Pruefung, die im Verhaeltnis 1:1 gewichtet werden.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-8. **F:** Wie lange dauert die Klausurarbeit im Kunst-Leistungsfach-Abitur (BW)?  
+7. **F:** Wie lange dauert die Klausurarbeit im Kunst-Leistungsfach-Abitur (BW)?  
    **A:** 270 Minuten einschliesslich Auswahlzeit.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-9. **F:** Wie laeuft die Aufgabenauswahl bei der Klausurarbeit ab?  
+8. **F:** Wie laeuft die Aufgabenauswahl bei der Klausurarbeit ab?  
    **A:** Der Lehrkraft werden drei Aufgaben (I, II, III) vorgelegt; sie waehlt zwei aus (zu den zwei unterrichteten Schwerpunktthemen); die Schuelerin/der Schueler erhaelt diese zwei und bearbeitet davon EINE.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-10. **F:** Wie lange dauert die fachpraktische Pruefung im Kunst-Leistungsfach-Abitur (BW)?  
+9. **F:** Wie lange dauert die fachpraktische Pruefung im Kunst-Leistungsfach-Abitur (BW)?  
    **A:** 300 Minuten.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-11. **F:** Welche Bedingung gilt fuer die Aufgaben der fachpraktischen Pruefung bezueglich der Dimension?  
+10. **F:** Welche Bedingung gilt fuer die Aufgaben der fachpraktischen Pruefung bezueglich der Dimension?  
    **A:** Von den Aufgaben muss mindestens eine im dreidimensionalen und mindestens eine im zweidimensionalen Bereich zu verwirklichen sein.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-12. **F:** In welchem Anforderungsbereich liegt der Schwerpunkt der zu erbringenden Pruefungsleistung?  
+11. **F:** In welchem Anforderungsbereich liegt der Schwerpunkt der zu erbringenden Pruefungsleistung?  
    **A:** Im Anforderungsbereich II.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-13. **F:** Welche drei Anforderungsbereiche (AFB) unterscheidet die EPA, und was leisten sie grob?  
+12. **F:** Welche drei Anforderungsbereiche (AFB) unterscheidet die EPA, und was leisten sie grob?  
    **A:** AFB I: Reproduktion/Wiedergabe von Kenntnissen; AFB II: Reorganisation und Transfer (Anwenden/Analysieren); AFB III: Reflexion und Problemloesung (eigenstaendiges Beurteilen/Gestalten).  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-14. **F:** Wie viele Klausuren sind in der Qualifikationsphase im Leistungsfach Kunst zu schreiben?  
+13. **F:** Wie viele Klausuren sind in der Qualifikationsphase im Leistungsfach Kunst zu schreiben?  
    **A:** In den ersten drei Schulhalbjahren jeweils mindestens zwei Klausuren, im vierten Halbjahr mindestens eine.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-15. **F:** Wann findet die schriftliche Abiturpruefung im Fach Bildende Kunst 2027 in Baden-Wuerttemberg statt?  
+14. **F:** Wann findet die schriftliche Abiturpruefung im Fach Bildende Kunst 2027 in Baden-Wuerttemberg statt?  
    **A:** Am Montag, 19. April 2027.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
-16. **F:** Warum muss man Oskar Schlemmer im Leistungsfach besonders beachten?  
+15. **F:** Warum muss man Oskar Schlemmer im Leistungsfach besonders beachten?  
    **A:** Schlemmer gehoert beim Schwerpunktthema 1 nur im Leistungsfach zu den verbindlichen Positionen - im Basisfach ist er dort nicht vorgesehen.  
-   <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
-
-17. **F:** Was folgt daraus, dass die Lehrkraft 'zwei von drei' Schwerpunktthemen waehlt, fuer deine Pruefung?  
-   **A:** Nur die zwei tatsaechlich unterrichteten Schwerpunktthemen sind pruefungsrelevant; alle Klausur- und fachpraktischen Aufgaben stammen aus diesen zwei Themen.  
    <sub>Quelle: Facherlass fuer die Abiturpruefung 2027 BW, Kap. 14 Bildende Kunst (Kultusministerium BW)</sub>
 
 
 ## Ueberblick Schwerpunktthemen  
-*Thema-Tag:* `Schwerpunktthemen - Ueberblick` — **15 Karten**
+*Thema-Tag:* `Schwerpunktthemen - Ueberblick` — **14 Karten**
 
 1. **F:** Welches Schwerpunktthema loest zum Abitur 2027 das bisherige 'Abbild und Idee in Stillleben und Landschaft' ab?  
    **A:** Das neue Schwerpunktthema 2 'Figur im Kontext' (Bereich 'Arbeiten auf der Flaeche', Malerei/Grafik/Medien).  
@@ -133,10 +125,6 @@
 
 14. **F:** Worum geht es im Schwerpunktthema 1 'Koerper - Raum - Bewegung'?  
    **A:** Um die Darstellung und Inszenierung des (menschlichen) Koerpers in Raum und Bewegung - von Berninis barocker Bewegungsplastik ueber Schlemmers Figur im Raum bis zu Rebecca Horns Koerper- und Bewegungsarbeiten.  
-   <sub>Quelle: Offizielles Dokument 'Neues Schwerpunktthema II - Figur im Kontext' (RP Tuebingen, ab Abitur 2027)</sub>
-
-15. **F:** Worum geht es im Schwerpunktthema 3 'Wohnkonzepte und Gebaeudestrukturen'?  
-   **A:** Um realisierte Wohnarchitektur und ihre Strukturen - Le Corbusiers Beitrag zur klassischen Moderne und die zeitgenoessischen Wohnbauten der Bjarke Ingels Group.  
    <sub>Quelle: Offizielles Dokument 'Neues Schwerpunktthema II - Figur im Kontext' (RP Tuebingen, ab Abitur 2027)</sub>
 
 
@@ -404,7 +392,7 @@
    <sub>Quelle: https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1444</sub>
 
 2. **F:** Wann und von wem wurde Schlemmer ans Bauhaus berufen und wie lange blieb er?  
-   **A:** Er wurde im Januar 1921 von Walter Gropius als einer der ersten Meister ans Staatliche Bauhaus in Weimar berufen und wirkte dort bis 1929 als Form- bzw. Werkmeister.  
+   **A:** Walter Gropius berief ihn 1920/21 als einen der ersten Meister an das Staatliche Bauhaus in Weimar; Schlemmer wirkte bis 1929 am Bauhaus (ab 1925/26 in Dessau).  
    <sub>Quelle: https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1444</sub>
 
 3. **F:** Welche Werkstätten leitete Oskar Schlemmer am Bauhaus?  
@@ -493,7 +481,7 @@
 
 
 ## Rebecca Horn  
-*Thema-Tag:* `SP1 Koerper-Raum-Bewegung · Rebecca Horn` — **22 Karten**
+*Thema-Tag:* `SP1 Koerper-Raum-Bewegung · Rebecca Horn` — **21 Karten**
 
 1. **F:** Wann und wo wurde Rebecca Horn geboren, und wann und wo starb sie?  
    **A:** Sie wurde am 24. März 1944 in Michelstadt (Odenwald, Hessen) geboren und starb am 6. September 2024 in Bad König (Hessen) im Alter von 80 Jahren.  
@@ -576,19 +564,15 @@
    <sub>Quelle: https://www.theartstory.org/artist/horn-rebecca/</sub>
 
 21. **F:** Welche wichtigen Auszeichnungen erhielt Rebecca Horn?  
-   **A:** Unter anderem den Kaiserring der Stadt Goslar (1992, als erste Frau), den japanischen Praemium Imperiale für Skulptur (2010) sowie hohe deutsche Ehrungen wie den Orden Pour le Mérite für Wissenschaften und Künste (2016).  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Rebecca_Horn</sub>
-
-22. **F:** Was verbindet Rebecca Horn mit Lehre und der Moontower Foundation?  
-   **A:** Von 1989 bis 2004 war sie Professorin an der Universität der Künste Berlin. 2007 gründete sie in Bad König die Moontower Foundation (Museum und Ateliers), untergebracht in der ehemaligen Textilfabrik ihres Großvaters.  
+   **A:** Unter anderem den Kaiserring der Stadt Goslar (1992, als erste Frau) und den japanischen Praemium Imperiale für Skulptur (2010).  
    <sub>Quelle: https://en.wikipedia.org/wiki/Rebecca_Horn</sub>
 
 
 ## Giotto di Bondone  
-*Thema-Tag:* `SP2 Figur im Kontext · Giotto` — **26 Karten**
+*Thema-Tag:* `SP2 Figur im Kontext · Giotto` — **25 Karten**
 
 1. **F:** Wann lebte Giotto di Bondone und woher stammte er?  
-   **A:** Giotto lebte etwa 1267 bis 1337 (gestorben am 8. Januar 1337 in Florenz). Er stammte aus der Gegend von Florenz (Vespignano bei Florenz, nach neuerer Forschung ggf. Florenz selbst); sein Vater Bondone war vermutlich Schmied. Die genauen Geburtsdaten (1266/67 oder 1276) sind kunsthistorisch umstritten.  
+   **A:** Giotto lebte um 1267 bis 1337 (gestorben am 8. Januar 1337 in Florenz) und stammte aus Vespignano bei Florenz. Das genaue Geburtsjahr (1266/67 oder 1276) ist kunsthistorisch umstritten.  
    <sub>Quelle: https://www.britannica.com/biography/Giotto-di-Bondone</sub>
 
 2. **F:** Welcher Epoche und welchem Stil wird Giotto zugeordnet?  
@@ -603,91 +587,87 @@
    **A:** Giotto überwindet die ikonographischen Normen der byzantinischen Malerei (Maniera greca). Nach Vasari vollzog er einen 'entscheidenden Bruch' mit dem byzantinischen Stil: Statt flächiger, streng schematischer Figuren treten plastisch modellierte, körperhafte Gestalten in einen Raum.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Giotto</sub>
 
-5. **F:** Wie beurteilte Giorgio Vasari die Leistung Giottos?  
-   **A:** Vasari sah in Giotto denjenigen, der 'die große Kunst der Malerei, wie wir sie heute kennen', einleitete und die über 200 Jahre vernachlässigte Technik des genauen Zeichnens nach der Natur (dem Leben) wiederbelebte. Vasari zählt Giotto damit zu den Begründern der neuzeitlichen Malerei.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Giotto</sub>
-
-6. **F:** In welchem Verhältnis stand Giotto zu Cimabue?  
+5. **F:** In welchem Verhältnis stand Giotto zu Cimabue?  
    **A:** Traditionell gilt Giotto als Schüler des Florentiner Malers Cimabue. Die berühmte Anekdote Vasaris (Cimabue entdeckt den Hirtenjungen Giotto, der Schafe auf einen Stein zeichnet) gilt vielen Forschern jedoch als Legende; die genaue Ausbildung Giottos ist unsicher.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Giotto</sub>
 
-7. **F:** Welche Themen behandelt Giottos Gesamtwerk?  
+6. **F:** Welche Themen behandelt Giottos Gesamtwerk?  
    **A:** Giottos Gesamtwerk enthält ausschließlich religiöse Themen. Der Mensch bildet dabei den eigentlichen Gegenstand: Heilige und biblische Figuren handeln mit echter Anteilnahme und Emotion, um christliche Geschichten anschaulich zu machen.  
    <sub>Quelle: https://www.britannica.com/biography/Giotto-di-Bondone</sub>
 
-8. **F:** Was ist Giottos Hauptwerk und wo befindet es sich?  
+7. **F:** Was ist Giottos Hauptwerk und wo befindet es sich?  
    **A:** Giottos Hauptwerk ist der Freskenzyklus in der Cappella degli Scrovegni (Arenakapelle) in Padua, entstanden um 1303-1305. Er bedeckt alle Innenwände und die Decke des Baus.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Scrovegni_Chapel</sub>
 
-9. **F:** Wer beauftragte die Cappella degli Scrovegni, wem ist sie geweiht und warum heißt sie 'Arenakapelle'?  
+8. **F:** Wer beauftragte die Cappella degli Scrovegni, wem ist sie geweiht und warum heißt sie 'Arenakapelle'?  
    **A:** Auftraggeber war der Paduaner Bankier Enrico degli Scrovegni. Die Kapelle ist Santa Maria della Carità (der Verkündigung) geweiht. Sie heißt 'Arenakapelle', weil sie auf dem Gelände eines antiken römischen Amphitheaters (Arena) errichtet wurde.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Scrovegni_Chapel</sub>
 
-10. **F:** Wann entstand der Freskenzyklus der Scrovegni-Kapelle und welche Bildprogramme umfasst er?  
-   **A:** Der Zyklus entstand zwischen dem 25. März 1303 und dem 25. März 1305. Er erzählt die Heilsgeschichte in drei Bildreihen: Leben von Joachim und Anna, Leben Mariens sowie Leben und Passion Christi. Darunter folgen die Tugenden und Laster (in Grisaille), an der Eingangswand das monumentale Jüngste Gericht.  
+9. **F:** Wann entstand der Freskenzyklus der Scrovegni-Kapelle und welche Bildprogramme umfasst er?  
+   **A:** Der Zyklus entstand um 1303 bis 1305. Er erzählt die Heilsgeschichte in drei Bildreihen: Leben von Joachim und Anna, Leben Mariens sowie Leben und Passion Christi. Darunter folgen die Tugenden und Laster (in Grisaille), an der Eingangswand das monumentale Jüngste Gericht.  
    <sub>Quelle: https://www.cappelladegliscrovegni.it/index.php/en/la-cappella-di-giotto</sub>
 
-11. **F:** In welcher Maltechnik ist der Scrovegni-Zyklus ausgeführt?  
+10. **F:** In welcher Maltechnik ist der Scrovegni-Zyklus ausgeführt?  
    **A:** Der Zyklus ist als Fresko (Wandmalerei auf frischen, feuchten Kalkputz) ausgeführt und bedeckt sämtliche Innenwände und die Decke der Kapelle. Er gilt als Meilenstein der Freskentechnik des Trecento.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Scrovegni_Chapel</sub>
 
-12. **F:** Beschreibe die Szene 'Die Beweinung Christi' (Lamentation) in der Scrovegni-Kapelle.  
-   **A:** In der 'Beweinung Christi' (um 1304-1306) hält Maria den leblosen Leichnam Christi; eine diagonale Felslinie lenkt den Blick nach unten. Die Trauernden zeigen individuell abgestufte Emotionen (Verzweiflung, stilles Trauern), und Engel winden sich schmerzverzerrt am Himmel. Die Szene ist ein Höhepunkt von Giottos Darstellung menschlicher Gefühle.  
+11. **F:** Beschreibe die Szene 'Die Beweinung Christi' (Lamentation) in der Scrovegni-Kapelle.  
+   **A:** In der 'Beweinung Christi' (um 1304/05) hält Maria den leblosen Leichnam Christi; eine diagonale Felslinie lenkt den Blick nach unten. Die Trauernden zeigen individuell abgestufte Emotionen (Verzweiflung, stilles Trauern), und Engel winden sich schmerzverzerrt am Himmel. Die Szene ist ein Höhepunkt von Giottos Darstellung menschlicher Gefühle.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Scrovegni_Chapel</sub>
 
-13. **F:** Beschreibe die Szene 'Der Judaskuss' / 'Gefangennahme Christi' in der Scrovegni-Kapelle.  
-   **A:** Im 'Judaskuss' (Gefangennahme Christi, um 1304-1306) umarmt der in einen gelben Mantel gehüllte Judas Christus; ihre Blicke treffen sich Auge in Auge im Zentrum. Soldaten drängen chaotisch heran. Giotto verdichtet den Augenblick des Verrats zu einer psychologisch außergewöhnlich spannungsreichen Bildmitte.  
+12. **F:** Beschreibe die Szene 'Der Judaskuss' / 'Gefangennahme Christi' in der Scrovegni-Kapelle.  
+   **A:** Im 'Judaskuss' (Gefangennahme Christi, um 1304/05) umarmt der in einen gelben Mantel gehüllte Judas Christus; ihre Blicke treffen sich Auge in Auge im Zentrum. Soldaten drängen chaotisch heran. Giotto verdichtet den Augenblick des Verrats zu einer psychologisch außergewöhnlich spannungsreichen Bildmitte.  
    <sub>Quelle: https://www.wikiart.org/en/giotto/the-arrest-of-christ-kiss-of-judas-1306-1</sub>
 
-14. **F:** Was zeigt die Szene 'Verkündigung an Anna' in der Scrovegni-Kapelle?  
-   **A:** Die 'Verkündigung an Anna' (um 1304-1306) zeigt Anna, die kniend die Botschaft eines Engels empfängt, der durch ein Fenster in den häuslichen Innenraum blickt. Der intime, mit Hausrat ausgestattete Raum und eine Magd betonen die Alltäglichkeit und Menschlichkeit der Szene.  
+13. **F:** Was zeigt die Szene 'Verkündigung an Anna' in der Scrovegni-Kapelle?  
+   **A:** Die 'Verkündigung an Anna' (um 1304/05) zeigt Anna, die kniend die Botschaft eines Engels empfängt, der durch ein Fenster in den häuslichen Innenraum blickt. Der intime, mit Hausrat ausgestattete Raum und eine Magd betonen die Alltäglichkeit und Menschlichkeit der Szene.  
    <sub>Quelle: https://www.wikiart.org/en/giotto/annunciation-to-st-anne</sub>
 
-15. **F:** Wo befindet sich in der Scrovegni-Kapelle das 'Jüngste Gericht' und welche Besonderheit enthält es?  
+14. **F:** Wo befindet sich in der Scrovegni-Kapelle das 'Jüngste Gericht' und welche Besonderheit enthält es?  
    **A:** Das monumentale 'Jüngste Gericht' bedeckt die Eingangs- bzw. Westwand (Gegenfassade), durch die man die Kapelle betritt. Es enthält ein Stifterbild: Enrico Scrovegni überreicht ein Modell der Kapelle - als Bitte um Seelenheil.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Scrovegni_Chapel</sub>
 
-16. **F:** Was ist die Ognissanti-Madonna - Technik, Maße, Datierung und Standort?  
+15. **F:** Was ist die Ognissanti-Madonna - Technik, Maße, Datierung und Standort?  
    **A:** Die Ognissanti-Madonna (Madonna in Maestà) ist ein Tempera-Tafelbild auf Holz mit Goldgrund, ca. 325 x 204 cm groß, entstanden um 1310 (datiert 1306-1310). Sie befindet sich heute in den Uffizien in Florenz; ursprünglich stand sie auf dem Hochaltar der Florentiner Ognissanti-Kirche.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Ognissanti_Madonna</sub>
 
-17. **F:** Wodurch unterscheidet sich Giottos Ognissanti-Madonna von byzantinisch geprägten Madonnenbildern (z.B. Cimabues)?  
+16. **F:** Wodurch unterscheidet sich Giottos Ognissanti-Madonna von byzantinisch geprägten Madonnenbildern (z.B. Cimabues)?  
    **A:** Trotz Goldgrund und hierarchischer Größenverhältnisse wirken Giottos Figuren körperhaft und schwer, fast wie plastische Skulpturen. Statt der Goldlinien Cimabues formt Giotto den Faltenwurf durch Licht, Schatten und Farbe, sodass der Körper unter dem Gewand spürbar wird. Sie gilt als eines der ersten Werke der italienischen Renaissancemalerei.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Ognissanti_Madonna</sub>
 
-18. **F:** Warum ist die Zuschreibung des Franziskus-Zyklus in Assisi umstritten?  
+17. **F:** Warum ist die Zuschreibung des Franziskus-Zyklus in Assisi umstritten?  
    **A:** Der Freskenzyklus 'Die Legende des heiligen Franziskus' (28 Szenen) in der Oberkirche von San Francesco in Assisi wird traditionell Giotto zugeschrieben, ist aber seit 1912 stark umstritten. Belegdokumente wurden zerstört. Viele (v.a. englischsprachige) Forscher sprechen ihn mehreren Meistern zu (u.a. dem 'Meister der Franzlegende'); italienische Forscher halten oft an Giotto fest. Die Zuschreibung ist also unsicher.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Giotto</sub>
 
-19. **F:** Was schuf Giotto in der Bardi-Kapelle von Santa Croce in Florenz?  
+18. **F:** Was schuf Giotto in der Bardi-Kapelle von Santa Croce in Florenz?  
    **A:** In der Bardi-Kapelle (Santa Croce, Florenz) schuf Giotto einen Freskenzyklus mit sieben Szenen aus dem Leben des heiligen Franziskus (nach der Legenda Maior des Bonaventura), meist datiert in die 1310er/1320er Jahre (WGA: ca. 1325-1328). Weil er hier in echter Freskotechnik (buon fresco) arbeitete, ist der Zyklus recht gut erhalten.  
    <sub>Quelle: https://www.wga.hu/html_m/g/giotto/s_croce/2bardi/index.html</sub>
 
-20. **F:** Was zeigt die Peruzzi-Kapelle von Santa Croce, und warum ist sie schlecht erhalten?  
+19. **F:** Was zeigt die Peruzzi-Kapelle von Santa Croce, und warum ist sie schlecht erhalten?  
    **A:** Die Peruzzi-Kapelle (Santa Croce, Florenz, um 1315-1320) zeigt Szenen aus dem Leben Johannes' des Täufers und Johannes' des Evangelisten. Die Fresken sind stark beschädigt, weil Giotto sie a secco (auf trockenen Putz) statt auf frischen Putz malte.  
    <sub>Quelle: https://www.wga.hu/html_m/g/giotto/s_croce/1peruzzi/index.html</sub>
 
-21. **F:** Nenne ein bedeutendes Tafelwerk Giottos außerhalb der Freskenzyklen.  
-   **A:** Der Stefaneschi-Triptychon (um 1320), ein Altarretabel in Tempera, entstanden für Alt-St.-Peter in Rom (heute Pinacoteca Vaticana). Es zählt neben der Ognissanti-Madonna zu Giottos wichtigen Tafelbildern.  
+20. **F:** Nenne ein bedeutendes Tafelwerk Giottos außerhalb der Freskenzyklen.  
+   **A:** Das Stefaneschi-Triptychon (um 1320), ein Altarretabel in Tempera, entstanden für Alt-St.-Peter in Rom (heute Pinacoteca Vaticana). Es zählt neben der Ognissanti-Madonna zu Giottos wichtigen Tafelbildern.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Giotto</sub>
 
-22. **F:** Welche Rolle spielte Giotto als Architekt in Florenz?  
+21. **F:** Welche Rolle spielte Giotto als Architekt in Florenz?  
    **A:** 1334 wurde Giotto zum Dombaumeister (capomaestro) der Florentiner Kathedrale ernannt und entwarf den freistehenden Glockenturm, den Campanile ('Giottos Glockenturm'); der Bau begann am 18. Juli 1334.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Giotto</sub>
 
-23. **F:** Mit welchem Gestaltungsmittel erzeugt Giotto die Körperlichkeit (Plastizität) seiner Figuren?  
+22. **F:** Mit welchem Gestaltungsmittel erzeugt Giotto die Körperlichkeit (Plastizität) seiner Figuren?  
    **A:** Giotto modelliert seine Figuren malerisch-plastisch durch Licht und Schatten (Hell-Dunkel-Abstufung, Wertskala). So erhalten sie Volumen, Gewicht und dreidimensionale Präsenz statt der flächigen Wirkung der byzantinischen Malerei.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Ognissanti_Madonna</sub>
 
-24. **F:** Wie erzeugt Giotto Ausdruck und emotionale Wirkung in seinen Szenen?  
+23. **F:** Wie erzeugt Giotto Ausdruck und emotionale Wirkung in seinen Szenen?  
    **A:** Giotto konzentriert jede Szene auf den dramatischen Höhepunkt und macht die innere Gefühlswelt durch entscheidende Gesten, Blicke und Mimik sichtbar. Der Faltenwurf lässt den Körper darunter erahnen. Die Heiligen agieren wie Menschen - mit Emotion, Gewicht und individuellem Ausdruck.  
    <sub>Quelle: https://www.britannica.com/biography/Giotto-di-Bondone</sub>
 
-25. **F:** Wie deutet Giotto den Bildraum an und welche Rolle spielen Architektur und Landschaft?  
+24. **F:** Wie deutet Giotto den Bildraum an und welche Rolle spielen Architektur und Landschaft?  
    **A:** Giotto bereitet perspektivische Raumkonstruktionen vor: Architektur, Felsen und Landschaft dienen als räumlicher Rahmen, in den die Figuren körperhaft eingebettet werden. So entsteht ein glaubwürdiger Handlungsraum (Figur-Raum-Bezug) statt eines flächigen Goldgrundes.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Scrovegni_Chapel</sub>
 
-26. **F:** Warum ist Giotto ein zentrales Beispiel für das Schwerpunktthema 'Figur im Kontext'?  
+25. **F:** Warum ist Giotto ein zentrales Beispiel für das Schwerpunktthema 'Figur im Kontext'?  
    **A:** Bei Giotto treten anstelle zweidimensionaler Figuren malerisch-plastisch modellierte Individuen in einen perspektivisch angedeuteten Raum. Die Figuren stehen in Bezug zu Architektur, Landschaft und zueinander (Gestik, Blickbeziehungen) - Ziel ist die Veranschaulichung christlicher Geschichten und die Einfühlung in den biblischen Kontext.  
    <sub>Quelle: https://www.britannica.com/biography/Giotto-di-Bondone</sub>
 
@@ -776,11 +756,11 @@
    <sub>Quelle: https://en.wikipedia.org/wiki/Study_after_Vel%C3%A1zquez%27s_Portrait_of_Pope_Innocent_X</sub>
 
 21. **F:** Was ist die Serie der 'Screaming Popes' (Schreiende Paepste)?  
-   **A:** Eine Reihe von rund 45-50 Papst-Variationen, die Bacon von 1949 bis Mitte der 1960er Jahre nach Velazquez' Innozenz X. schuf - sein zentrales, obsessiv wiederholtes Bildmotiv.  
+   **A:** Eine Reihe von rund 45 Papst-Variationen, die Bacon von 1949 bis Mitte der 1960er Jahre nach Velazquez' Innozenz X. schuf - sein zentrales, obsessiv wiederholtes Bildmotiv.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Study_after_Vel%C3%A1zquez%27s_Portrait_of_Pope_Innocent_X</sub>
 
 22. **F:** Nenne Titel, Datierung, Technik, Format und Besonderheit von Bacons 'Three Studies of Lucian Freud'.  
-   **A:** 'Three Studies of Lucian Freud' (1969), Oel auf Leinwand, Triptychon aus drei Tafeln (je 197,8 x 147,5 cm). Es zeigt den Maler Lucian Freud auf einem Bett vor Roehrengeruest und wurde 2013 bei Christie's fuer 142,4 Mio. US-Dollar versteigert.  
+   **A:** 'Three Studies of Lucian Freud' (1969), Oel auf Leinwand, Triptychon aus drei Tafeln (je 197,8 x 147,5 cm). Es zeigt den Maler Lucian Freud auf einem Stuhl sitzend in einem kaefigartigen Raumgeruest - dreimal aus verschiedenen Blickwinkeln.  
    <sub>Quelle: https://en.wikipedia.org/wiki/Three_Studies_of_Lucian_Freud</sub>
 
 23. **F:** Welche Bedeutung hat Eadweard Muybridge fuer Bacons Malerei?  
@@ -884,7 +864,7 @@
    <sub>Quelle: https://berlinischegalerie.de/en/exhibition/sibylle-bergemann/</sub>
 
 20. **F:** Welche institutionelle Anerkennung erhielt Bergemann?  
-   **A:** 1994 wurde sie Mitglied der Akademie der Künste in Berlin. Zudem erhielt sie u. a. ein Stipendium der Körber-Stiftung (1995) und ein Stipendium des Berliner Senats (1997); das MoMA in New York besitzt zwölf ihrer Abzüge.  
+   **A:** 1994 wurde sie Mitglied der Akademie der Künste in Berlin; ihre Arbeiten sind in bedeutenden Sammlungen vertreten (u. a. besitzt das MoMA in New York zwölf ihrer Abzüge).  
    <sub>Quelle: https://en.wikipedia.org/wiki/Sibylle_Bergemann</sub>
 
 21. **F:** Wie lässt sich Bergemanns Werk dem Schwerpunktthema 'Figur im Kontext' zuordnen?  
@@ -894,203 +874,3 @@
 22. **F:** Wie ist Sibylle Bergemanns kunsthistorische Bedeutung einzuordnen?  
    **A:** Sie zählt zu den bedeutendsten Fotografinnen Deutschlands und prägte als DDR-Fotografin und OSTKREUZ-Mitbegründerin die dokumentarisch-poetische Fotografie. Die Berlinische Galerie widmete ihr 2022 die Retrospektive 'Stadt Land Hund. Fotografien 1966–2010'.  
    <sub>Quelle: https://berlinischegalerie.de/en/exhibition/sibylle-bergemann/</sub>
-
-
-## Le Corbusier  
-*Thema-Tag:* `SP3 Wohnkonzepte & Gebaeudestrukturen · Le Corbusier` — **25 Karten**
-
-1. **F:** Wer war Le Corbusier (Lebensdaten und Geburts-/Sterbeort)?  
-   **A:** Le Corbusier (1887–1965) war einer der einflussreichsten Architekten der klassischen Moderne. Er wurde am 6. Oktober 1887 in La Chaux-de-Fonds (Schweiz) geboren und starb am 27. August 1965 in Roquebrune-Cap-Martin (Frankreich).  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Le_Corbusier</sub>
-
-2. **F:** Wie lautet der eigentliche Name Le Corbusiers, und woher stammt sein Pseudonym?  
-   **A:** Sein bürgerlicher Name war Charles-Édouard Jeanneret. Das Pseudonym „Le Corbusier“ (abgewandelt vom Namen eines Vorfahren, Lecorbésier) legte er sich um 1920 in der Zeitschrift „L'Esprit Nouveau“ zu.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Le_Corbusier</sub>
-
-3. **F:** Mit welchem Verwandten arbeitete Le Corbusier bei vielen seiner Bauten zusammen?  
-   **A:** Er arbeitete eng mit seinem Cousin Pierre Jeanneret zusammen. Gemeinsam entstanden u. a. die Villa Savoye, die Häuser der Weißenhofsiedlung und die „Fünf Punkte zu einer neuen Architektur“ (bei denen Jeanneret als Mitautor genannt ist).  
-   <sub>Quelle: https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/</sub>
-
-4. **F:** Welches theoretische Hauptwerk veröffentlichte Le Corbusier 1923, und wofür steht sein berühmtes Schlagwort?  
-   **A:** 1923 erschien sein programmatisches Buch „Vers une architecture“ (Ausblick auf eine Architektur). Darin prägte er das Schlagwort vom Haus als „Wohnmaschine“ (machine à habiter): das Wohnen solle so funktional und rational durchdacht sein wie eine Maschine.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Le_Corbusier</sub>
-
-5. **F:** Was ist mit Le Corbusiers Begriff der „Wohnmaschine“ (machine à habiter) gemeint?  
-   **A:** Der Begriff steht für ein funktionalistisches Wohnkonzept: Das Haus wird wie eine Maschine als zweckmäßiges, standardisierbares und effizientes Gerät zum Wohnen verstanden. Er ist Ausdruck des Funktionalismus des „Neuen Bauens“.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Le_Corbusier</sub>
-
-6. **F:** Was ist der „Modulor“ Le Corbusiers?  
-   **A:** Der Modulor ist ein von Le Corbusier entwickeltes Proportions- und Maßsystem, das die Maße des Bauwerks aus den Proportionen des menschlichen Körpers und dem Goldenen Schnitt ableitet. Er veröffentlichte ihn 1948 und wandte ihn v. a. bei der Unité d'Habitation in Marseille an.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Unit%C3%A9_d'habitation</sub>
-
-7. **F:** Was war das „Dom-Ino“-System (1914) und welche Bedeutung hatte es?  
-   **A:** Das Dom-Ino-System (1914) war ein Prototyp für einen Stahlbeton-Skelettbau: schlanke Betonstützen tragen glatte Deckenplatten, verbunden durch eine Treppe. Da die Wände keine tragende Funktion mehr haben, ist es die konstruktive Grundlage für den freien Grundriss und die spätere Theorie der „Fünf Punkte“.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Dom-Ino_House</sub>
-
-8. **F:** Wie heißen Le Corbusiers „Fünf Punkte zu einer neuen Architektur“ (1927) vollständig?  
-   **A:** 1) Die Stützen / Pilotis (les pilotis), 2) der Dachgarten (le toit-jardin), 3) der freie Grundriss (le plan libre), 4) das Langfenster/Bandfenster (la fenêtre en longueur) und 5) die freie Fassade (la façade libre). Voraussetzung für alle ist der Stahlbeton-Skelettbau.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/F%C3%BCnf_Punkte_zu_einer_neuen_Architektur</sub>
-
-9. **F:** Wann und wo wurden die „Fünf Punkte zu einer neuen Architektur“ formuliert?  
-   **A:** Die Grundgedanken erschienen bereits 1923 in „Vers une architecture“; als eigenständiges Manifest von Le Corbusier und Pierre Jeanneret wurden sie 1927 in der Zeitschrift „Die Form“ des Deutschen Werkbunds veröffentlicht – im Umfeld der Weißenhofsiedlung.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/F%C3%BCnf_Punkte_zu_einer_neuen_Architektur</sub>
-
-10. **F:** Fünf Punkte: Was bedeutet der erste Punkt, die „Pilotis“?  
-   **A:** Pilotis sind schlanke Stützen (aus Stahlbeton), die das Gebäude tragen und vom Boden abheben. Da die Wände keine tragende Funktion mehr haben, wird das Erdgeschoss geöffnet und die Fläche darunter frei nutzbar.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/F%C3%BCnf_Punkte_zu_einer_neuen_Architektur</sub>
-
-11. **F:** Fünf Punkte: Was bedeutet der „Dachgarten“ (toit-jardin)?  
-   **A:** Das flache Dach wird als begrünte Dachterrasse (Dachgarten) nutzbar gemacht. So gewinnt das Gebäude die durch die Bebauung verlorene Grundfläche als zusätzlichen Wohn- und Naturraum zurück.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/F%C3%BCnf_Punkte_zu_einer_neuen_Architektur</sub>
-
-12. **F:** Fünf Punkte: Was bedeutet der „freie Grundriss“ (plan libre)?  
-   **A:** Da nur die Stützen tragen, sind die Innenwände von statischen Zwängen befreit und können frei angeordnet werden. Dadurch werden flexible, offene Grundrisse möglich.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/F%C3%BCnf_Punkte_zu_einer_neuen_Architektur</sub>
-
-13. **F:** Fünf Punkte: Was bedeutet das „Langfenster“ / Bandfenster (fenêtre en longueur)?  
-   **A:** Das Langfenster ist ein waagerechtes, über die ganze Fassade laufendes Fensterband. Es sorgt für gleichmäßige Belichtung und einen weiten Ausblick und ist nur möglich, weil die Fassade nicht mehr tragen muss.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/F%C3%BCnf_Punkte_zu_einer_neuen_Architektur</sub>
-
-14. **F:** Fünf Punkte: Was bedeutet die „freie Fassade“ (façade libre)?  
-   **A:** Weil die Stützen zurückgesetzt im Inneren liegen, ist die Fassade von der Tragfunktion entkoppelt und kann als nichttragende „Haut“ frei gestaltet werden – etwa mit durchlaufenden Fensterbändern.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/F%C3%BCnf_Punkte_zu_einer_neuen_Architektur</sub>
-
-15. **F:** Was sind die Maisons La Roche et Jeanneret (Villa La Roche-Jeanneret) – Ort und Datierung?  
-   **A:** Zwei zusammengebaute Wohnhäuser in Paris (16. Arrondissement), entworfen von Le Corbusier und Pierre Jeanneret und 1923–1925 errichtet. Die Maison La Roche diente als Wohn- und Galeriehaus des Kunstsammlers Raoul La Roche.  
-   <sub>Quelle: https://www.fondationlecorbusier.fr/en/work-architecture/achievements-maisons-la-roche-jeanneret-paris-france-1923-1925/</sub>
-
-16. **F:** Welche architektonische Neuerung führte Le Corbusier in der Maison La Roche (1923–25) erstmals ein?  
-   **A:** Hier erscheinen die Pilotis erstmals, und im Inneren entwickelte er erstmals die „architektonische Promenade“ (promenade architecturale) – ein durch eine Rampe erlebbarer, sich entfaltender Raumweg. Das Gebäude ist seit 2016 UNESCO-Welterbe.  
-   <sub>Quelle: https://www.fondationlecorbusier.fr/en/work-architecture/achievements-maisons-la-roche-jeanneret-paris-france-1923-1925/</sub>
-
-17. **F:** Was baute Le Corbusier 1927 in der Weißenhofsiedlung in Stuttgart?  
-   **A:** Le Corbusier errichtete zusammen mit Pierre Jeanneret zwei realisierte Wohnbauten: ein freistehendes Einfamilienhaus und ein Doppelhaus. Sie gelten als gebaute Umsetzung seiner Ideen (u. a. „Wohnmaschine“, Pilotis) und sind seit 2016 UNESCO-Welterbe.  
-   <sub>Quelle: https://www.fondationlecorbusier.fr/en/work-architecture/achievements-weissenhof-siedlung-houses-stuttgart-germany-1927/</sub>
-
-18. **F:** In welchem Rahmen entstand die Weißenhofsiedlung Stuttgart 1927?  
-   **A:** Sie entstand 1927 als Mustersiedlung des Deutschen Werkbunds zur Ausstellung „Die Wohnung“ unter der künstlerischen Leitung von Mies van der Rohe. 17 Architekten der europäischen Avantgarde zeigten neue Wohn- und Bauformen der Moderne.  
-   <sub>Quelle: https://de.wikipedia.org/wiki/Wei%C3%9Fenhofsiedlung</sub>
-
-19. **F:** Was ist die Villa Savoye – Ort, Datierung und Bedeutung?  
-   **A:** Die Villa Savoye ist ein Landhaus in Poissy bei Paris, von Le Corbusier und Pierre Jeanneret 1928–1931 in Stahlbeton erbaut. Sie gilt als das kanonische Musterbeispiel für die vollständige Umsetzung der „Fünf Punkte“ und als Ikone der Moderne / des Internationalen Stils.  
-   <sub>Quelle: https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/</sub>
-
-20. **F:** Wie verwirklicht die Villa Savoye (1928–31) die „Fünf Punkte“?  
-   **A:** Der weiße Baukörper schwebt auf Pilotis über dem Erdgeschoss; sie besitzt einen Dachgarten, einen freien Grundriss und umlaufende Bandfenster an der freien Fassade. Eine innere Rampe erschließt als „architektonische Promenade“ die Geschosse.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Villa_Savoye</sub>
-
-21. **F:** Welchen Denkmal- und Welterbestatus hat die Villa Savoye?  
-   **A:** Die Villa Savoye wurde bereits 1965 – zu Lebzeiten Le Corbusiers – zum französischen „monument historique“ erklärt. 2016 wurde sie als Teil von 17 Werken Le Corbusiers in die UNESCO-Welterbeliste aufgenommen.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Villa_Savoye</sub>
-
-22. **F:** Was ist die Unité d'Habitation in Marseille – Ort, Datierung und Bautyp?  
-   **A:** Die Unité d'Habitation („Cité Radieuse“) in Marseille wurde 1947–1952 errichtet. Sie ist ein großes Wohnhochhaus mit 337 Wohnungen in 23 Grundrisstypen über 12 Geschossen, das auf massiven Pilotis steht – Le Corbusiers Modell einer „vertikalen Stadt“.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Unit%C3%A9_d'habitation</sub>
-
-23. **F:** Warum gilt die Unité d'Habitation Marseille als frühes Hauptwerk des Brutalismus?  
-   **A:** Statt der weißen Putzfassaden früherer Bauten besteht sie aus sichtbarem, rau belassenem Stahlbeton (béton brut). Dieser Rohbeton wurde namensgebend und stilbildend für den Brutalismus.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Unit%C3%A9_d'habitation</sub>
-
-24. **F:** Welches Wohnkonzept und Maßsystem prägen die Unité d'Habitation Marseille?  
-   **A:** Die Unité bündelt Wohnen und Versorgung in einem Baukörper: über innenliegende „Straßen“ (rues intérieures) erschlossene Maisonette-Wohnungen sowie Ladenzeile, Dachterrasse und Gemeinschaftseinrichtungen. Ihre Maße sind durchgehend nach dem Modulor bemessen.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Unit%C3%A9_d'habitation</sub>
-
-25. **F:** Was wurde 2016 zum UNESCO-Welterbe „Das architektonische Werk von Le Corbusier“ erklärt?  
-   **A:** 2016 nahm die UNESCO 17 Bauwerke Le Corbusiers in 7 Ländern auf 3 Kontinenten als „herausragenden Beitrag zur Moderne“ ins Welterbe auf – darunter die Maison La Roche, die Häuser der Weißenhofsiedlung, die Villa Savoye und die Unité d'Habitation in Marseille.  
-   <sub>Quelle: https://www.unesco.de/staette/das-architektonische-werk-von-le-corbusier-ein-herausragender-beitrag-zur-moderne/</sub>
-
-
-## Bjarke Ingels Group (BIG)  
-*Thema-Tag:* `SP3 Wohnkonzepte & Gebaeudestrukturen · BIG` — **23 Karten**
-
-1. **F:** Wann, wo und von wem wurde die Bjarke Ingels Group (BIG) gegründet?  
-   **A:** BIG wurde 2005 in Kopenhagen von Bjarke Ingels gegründet – hervorgegangen aus dem zuvor mit Julien De Smedt geführten Büro PLOT (2001–2005/06).  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Bjarke_Ingels</sub>
-
-2. **F:** Wann und wo wurde Bjarke Ingels geboren?  
-   **A:** Bjarke Ingels wurde am 2. Oktober 1974 in Kopenhagen (Dänemark) geboren.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Bjarke_Ingels</sub>
-
-3. **F:** Was war PLOT und welche Rolle spielt es für BIG?  
-   **A:** PLOT (2001–2005/06) war das gemeinsame Büro von Bjarke Ingels und Julien De Smedt. Aus ihm gingen frühe Wohnbauten wie die VM Houses und die Mountain Dwellings hervor; nach der Trennung gründete Ingels BIG.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Bjarke_Ingels</sub>
-
-4. **F:** An welchen Standorten arbeitet BIG heute (Auswahl)?  
-   **A:** BIG unterhält Büros u.a. in Kopenhagen und New York City sowie in weiteren Städten wie London, Barcelona, Zürich und Shanghai.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Bjarke_Ingels_Group</sub>
-
-5. **F:** Was ist "Yes is More" (2009)?  
-   **A:** "Yes is More: An Archicomic on Architectural Evolution" ist BIGs erstes Buch/Manifest von 2009. Es stellt 30 Projekte in Comicform vor und kehrt Mies van der Rohes "Less is more" um – Programm für mehr Ambition, Programm und öffentlichen Mehrwert.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Bjarke_Ingels</sub>
-
-6. **F:** Was meint Bjarke Ingels mit "hedonistischer Nachhaltigkeit" (hedonistic sustainability)?  
-   **A:** Nachhaltigkeit soll kein Verzicht sein, sondern die Lebensqualität steigern: "Es geht nicht darum, was wir aufgeben, sondern was wir gewinnen." Ökologie und Vergnügen/Lebensfreude werden verbunden.  
-   <sub>Quelle: https://www.archdaily.com/553064/spotlight-bjarke-ingels</sub>
-
-7. **F:** Was bedeutet "pragmatischer Utopismus" (pragmatic utopianism) bei BIG?  
-   **A:** Ingels sucht einen dritten Weg zwischen naiv-utopischer und erstarrt-pragmatischer Architektur: visionäre, sozial und ökologisch optimierte Ideen werden mit realisierbaren, kontextbezogenen Strategien umgesetzt.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Bjarke_Ingels</sub>
-
-8. **F:** Was versteht Bjarke Ingels unter "Bigamy" (Bigamie) als Entwurfshaltung?  
-   **A:** Statt sich zwischen Gegensätzen (öffentlich/privat, dicht/offen, utopisch/pragmatisch) zu entscheiden, werden sie zusammengeführt – ein "Sowohl-als-auch", das widerstreitende Interessen produktiv verknüpft statt eliminiert.  
-   <sub>Quelle: https://www.dwell.com/article/bjarke-ingels-on-bigamy-ccc59921</sub>
-
-9. **F:** Was kennzeichnet BIGs "Diagramm-Architektur" als Methode?  
-   **A:** Der Entwurf wird aus einer klaren, oft comichaft erklärbaren Ausgangsidee bzw. einem Diagramm entwickelt: Programm, Nutzung und Kontext werden logisch in eine prägnante, ablesbare Großform übersetzt.  
-   <sub>Quelle: https://www.archdaily.com/553064/spotlight-bjarke-ingels</sub>
-
-10. **F:** VM Houses: Wo, wann und mit welcher Nutzung?  
-   **A:** Wohnbau in Ørestad, Kopenhagen; fertiggestellt bis 2005 (M-Haus zuerst, V-Haus 2005), von PLOT (BIG + JDS). Zwei reine Wohnblöcke mit rund 200 Wohnungen und rund 80 verschiedenen Wohnungstypen.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/VM_Houses</sub>
-
-11. **F:** Woher stammt der Name "VM Houses" und was ist ihr auffälligstes Gestaltungsmittel?  
-   **A:** Die beiden Blöcke bilden im Grundriss die Buchstaben V und M – daher der Name. Auffällig sind die spitzen, dreieckigen Balkone ("Dornen") des V-Hauses sowie diagonale Blickbeziehungen für Licht, Aussicht und Privatheit.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/VM_Houses</sub>
-
-12. **F:** Mountain Dwellings (Bjerget): Wo, wann und welches Grundkonzept?  
-   **A:** Wohnbau in Ørestad, Kopenhagen, fertiggestellt 2008 (PLOT/BIG + JDS). Konzept: Wohnungen liegen terrassiert auf dem schräg ansteigenden Dach eines Parkhauses – ca. 1/3 Wohnen, 2/3 Parken.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Mountain_Dwellings</sub>
-
-13. **F:** Wie wird bei den Mountain Dwellings Wohnqualität trotz Parkhaus erzeugt?  
-   **A:** Die ca. 80 Wohnungen staffeln sich als künstliche, nach Süden orientierte "Bergflanke" vom Straßenniveau bis zum 11. Geschoss. Jede Einheit erhält einen großen Dachgarten, Sonne und Aussicht; Erschließung und Parken erfolgen im Gebäude.  
-   <sub>Quelle: https://www.archdaily.com/15022/mountain-dwellings-big</sub>
-
-14. **F:** 8 House (8 Tallet): Wo, wann und welche Grundform?  
-   **A:** Großer Wohn-/Mischnutzungsbau in Ørestad, Kopenhagen, fertiggestellt 2010 (BIG). Der Baukörper hat die Form einer liegenden 8 mit zwei Innenhöfen – das damals größte private Bauvorhaben Dänemarks.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/8_House</sub>
-
-15. **F:** Wie ist die Nutzung im 8 House verteilt (Wohnschwerpunkt)?  
-   **A:** Der Bau vereint rund 61.000 m² Wohnfläche (ca. 476 Wohnungen: Reihenhäuser, Apartments, Penthäuser) mit ca. 10.000 m² Läden und Büros im Sockel. Die Wohnfunktion ist deutlich dominant.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/8_House</sub>
-
-16. **F:** Welches städtebauliche Prinzip verfolgt das 8 House ("Bergdorf"/3D-Nachbarschaft)?  
-   **A:** Ein durchgehender Fuß- und Radweg führt spiralförmig bis zum 10. Geschoss und erschließt die Reihenhäuser – so entsteht eine dreidimensionale, vertikale "Stadt"/Nachbarschaft, in der Vorstadtleben und urbane Dichte verschmelzen.  
-   <sub>Quelle: https://big.dk/projects/8-house-2021</sub>
-
-17. **F:** Warum gilt das 8 House als Beispiel für Hybridbau/Mischnutzung?  
-   **A:** Traditionell getrennte Programme (Wohnen, Reihenhäuser, Läden, Büros) werden zu einem einzigen Baukörper verschmolzen und übereinandergestapelt ("architektonische Alchemie"), wobei jede Nutzung ihre optimale Lage erhält.  
-   <sub>Quelle: https://big.dk/projects/8-house-2021</sub>
-
-18. **F:** VIA 57 West: Wo, wann und welcher neue Gebäudetypus?  
-   **A:** Wohnhochhaus in New York (West 57th Street / West Side Highway), fertiggestellt 2016 (BIG für die Durst Organization). Es begründet den Typus "Courtscraper".  
-   <sub>Quelle: https://www.archdaily.com/794950/via-57-west-big</sub>
-
-19. **F:** Was bedeutet der Begriff "Courtscraper" bei VIA 57 West?  
-   **A:** Ein Hybrid aus "courtyard" (europäischer Innenhof) und "skyscraper" (amerikanischer Wolkenkratzer): die Dichte des Hochhauses wird mit dem gemeinschaftlichen Innenhof des Blockrands verbunden.  
-   <sub>Quelle: https://www.dezeen.com/2016/09/02/big-via-57-west-courtscraper-manhattan-new-york-photographs-montse-zamorano-usa/</sub>
-
-20. **F:** Welche skulpturale Großform und welche Wohnfunktion hat VIA 57 West?  
-   **A:** Der Baukörper ist ein pyramiden-/tetraederförmiger Hyparblock (rund 142 m hoch), der von einer niedrigen Ecke steil ansteigt und einen begrünten Innenhofgarten umschließt. Er enthält rund 709 Mietwohnungen – reiner Wohnturm.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Via_57_West</sub>
-
-21. **F:** Nenne zentrale Gestaltungsmittel/Fachbegriffe von BIGs Wohnbauten.  
-   **A:** Terrassierung, Hybridbau/Mischnutzung mit Wohnschwerpunkt, kontinuierliche Erschließung über Rampen/Promenaden, Verdichtung, Förderung sozialer Interaktion sowie skulpturale Großformen mit ablesbarem Diagramm.  
-   <sub>Quelle: https://www.archdaily.com/553064/spotlight-bjarke-ingels</sub>
-
-22. **F:** Wie verbindet BIG soziale Dichte mit Lebensqualität (am Beispiel Ørestad)?  
-   **A:** In Ørestad (VM Houses, Mountain, 8 House) werden hohe Verdichtung und viele Wohneinheiten mit Aussicht, Licht, privaten Freiräumen (Balkone/Dachgärten) und gemeinschaftlichen Wegen kombiniert – Dichte wird als Chance für Lebensqualität und Begegnung inszeniert.  
-   <sub>Quelle: https://big.dk/projects/8-house-2021</sub>
-
-23. **F:** Warum sind Bauten wie CopenHill (Kraftwerk) für das Wohn-Schwerpunktthema nur Kontext, nicht Prüfungsobjekt?  
-   **A:** Prüfungsrelevant sind laut Facherlass nur realisierte Wohngebäude bzw. Mischbauten mit zentralem Wohnanteil. Reine Nicht-Wohnbauten (Kraftwerk, Museen, Hauptquartiere) illustrieren zwar BIGs Haltung (z.B. hedonistische Nachhaltigkeit), gelten aber nur als Kontext.  
-   <sub>Quelle: https://en.wikipedia.org/wiki/Bjarke_Ingels_Group</sub>
