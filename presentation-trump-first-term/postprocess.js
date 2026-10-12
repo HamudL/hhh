@@ -1,10 +1,10 @@
-// Ergänzt im fertigen PPTX, was pptxgenjs nicht schreiben kann:
-//   1. Theme-Farben aus theme.json (pptxgenjs schreibt sonst die Office-Standardpalette).
-//   2. Morph-Übergänge (Folie 2–8) – der Zeitstrahl und die große 45 gleiten von Folie zu Folie.
-//      Ältere PowerPoint-Versionen ohne Morph zeigen stattdessen eine Überblendung.
-//   3. Gezielte Beschriftungen im Arbeitslosen-Diagramm (Tiefpunkt, Rekord, Ende).
+// Adds what pptxgenjs cannot write to the finished PPTX:
+//   1. Theme colors from theme.json (pptxgenjs otherwise writes the stock Office palette).
+//   2. Morph transitions (slides 2–8) – the timeline and the big 45 glide from slide to slide.
+//      PowerPoint versions without Morph show a fade instead.
+//   3. Targeted labels on the unemployment chart (low, record, end).
 //
-//   node postprocess.js Trump_Erste_Amtszeit.pptx
+//   node postprocess.js Trump_First_Term.pptx
 
 const fs = require("fs");
 const path = require("path");
@@ -15,7 +15,7 @@ const SLOTS = ["dk1", "lt1", "dk2", "lt2", "accent1", "accent2", "accent3", "acc
 
 function applyThemeColors(xml) {
   for (const k of SLOTS) {
-    if (!/^[0-9A-F]{6}$/i.test(THEME.colors[k])) throw new Error(`theme.json: ${k} ist keine sechsstellige Hex-Farbe`);
+    if (!/^[0-9A-F]{6}$/i.test(THEME.colors[k])) throw new Error(`theme.json: ${k} is not a six-digit hex color`);
   }
   const scheme =
     `<a:clrScheme name="${THEME.name}">` +
@@ -24,7 +24,7 @@ function applyThemeColors(xml) {
   const out = xml
     .replace(/<a:clrScheme\b[\s\S]*?<\/a:clrScheme>/, () => scheme)
     .replace(/(<a:(?:theme|fontScheme)\b[^>]*?\bname=")[^"]*"/g, (_, head) => `${head}${THEME.name}"`);
-  if (!out.includes(scheme)) throw new Error("ppt/theme/theme1.xml ohne <a:clrScheme>");
+  if (!out.includes(scheme)) throw new Error("ppt/theme/theme1.xml has no <a:clrScheme>");
   return out;
 }
 
@@ -46,11 +46,11 @@ const MORPH =
 const NAVY = "0B1E3B";
 const RED = "E81B23";
 
-// Punkte im Diagramm: Index = Monat ab Jan. 2017
+// Labeled chart points: index = month since Jan 2017
 const POINTS = [
-  { idx: 37, label: "3,5 % · 50-Jahres-Tief", pos: "b", color: NAVY, bold: true },
-  { idx: 39, label: "14,8 % · höchster Wert seit 1948", pos: "l", color: RED, bold: true },
-  { idx: 47, label: "6,7 %", pos: "r", color: NAVY, bold: false },
+  { idx: 37, label: "3.5% · 50-year low", pos: "b", color: NAVY, bold: true },
+  { idx: 39, label: "14.8% · highest since 1948", pos: "l", color: RED, bold: true },
+  { idx: 47, label: "6.7%", pos: "r", color: NAVY, bold: false },
 ];
 
 function dPt(p) {
@@ -66,7 +66,7 @@ function dLbl(p) {
   return (
     `<c:dLbl><c:idx val="${p.idx}"/><c:layout/>` +
     `<c:tx><c:rich><a:bodyPr wrap="none"/><a:lstStyle/><a:p><a:pPr><a:defRPr sz="1100" b="${p.bold ? 1 : 0}"/></a:pPr>` +
-    `<a:r><a:rPr lang="de-DE" sz="1100" b="${p.bold ? 1 : 0}"><a:solidFill><a:srgbClr val="${NAVY}"/></a:solidFill>` +
+    `<a:r><a:rPr lang="en-US" sz="1100" b="${p.bold ? 1 : 0}"><a:solidFill><a:srgbClr val="${NAVY}"/></a:solidFill>` +
     `<a:latin typeface="Arial"/></a:rPr><a:t>${p.label}</a:t></a:r></a:p></c:rich></c:tx>` +
     `<c:spPr><a:noFill/><a:ln><a:noFill/></a:ln></c:spPr>` +
     `<c:dLblPos val="${p.pos}"/><c:showLegendKey val="0"/><c:showVal val="1"/><c:showCatName val="0"/>` +
@@ -75,7 +75,7 @@ function dLbl(p) {
 }
 
 function fixLineSeries(ser) {
-  // Schema-Reihenfolge einer Linienreihe: idx, order, tx, spPr, marker, dPt*, dLbls, cat, val, smooth
+  // Schema order of a line series: idx, order, tx, spPr, marker, dPt*, dLbls, cat, val, smooth
   let out = ser.replace(/<c:invertIfNegative val="0"\/>/g, "");
   out = out.replace(/<c:dLbls>[\s\S]*?<\/c:dLbls>/, "");
   out = out.replace(/<c:marker>[\s\S]*?<\/c:marker>/, "");
@@ -86,7 +86,7 @@ function fixLineSeries(ser) {
     '<c:showLegendKey val="0"/><c:showVal val="0"/><c:showCatName val="0"/><c:showSerName val="0"/>' +
     '<c:showPercent val="0"/><c:showBubbleSize val="0"/></c:dLbls>';
   const block = '<c:marker><c:symbol val="none"/></c:marker>' + POINTS.map(dPt).join("") + labels;
-  if (!out.includes("<c:cat>")) throw new Error("Linienreihe ohne <c:cat> – unerwartetes Diagramm-XML");
+  if (!out.includes("<c:cat>")) throw new Error("line series without <c:cat> – unexpected chart XML");
   return out.replace("<c:cat>", block + "<c:cat>");
 }
 
@@ -100,22 +100,22 @@ function fixLineSeries(ser) {
     const part = `ppt/slides/slide${n}.xml`;
     let xml = await zip.file(part).async("string");
     if (xml.includes("<p:transition")) continue;
-    if (!xml.includes("</p:clrMapOvr>")) throw new Error(`${part}: kein <p:clrMapOvr> gefunden`);
+    if (!xml.includes("</p:clrMapOvr>")) throw new Error(`${part}: no <p:clrMapOvr> found`);
     xml = xml.replace("</p:clrMapOvr>", "</p:clrMapOvr>" + MORPH);
     zip.file(part, xml);
   }
 
   const charts = Object.keys(zip.files).filter((f) => /^ppt\/charts\/chart\d+\.xml$/.test(f));
-  if (charts.length !== 1) throw new Error(`erwartet genau 1 Diagramm, gefunden: ${charts.length}`);
+  if (charts.length !== 1) throw new Error(`expected exactly 1 chart, found ${charts.length}`);
   let chart = await zip.file(charts[0]).async("string");
   const sers = chart.match(/<c:ser>[\s\S]*?<\/c:ser>/g) || [];
-  if (sers.length !== 1) throw new Error(`erwartet genau 1 Datenreihe, gefunden: ${sers.length}`);
+  if (sers.length !== 1) throw new Error(`expected exactly 1 series, found ${sers.length}`);
   chart = chart.replace(sers[0], fixLineSeries(sers[0]));
   zip.file(charts[0], chart);
 
   fs.writeFileSync(FILE, await zip.generateAsync({ type: "nodebuffer", compression: "DEFLATE" }));
-  console.log(`Theme „${THEME.name}“; Morph auf Folie ${MORPH_SLIDES.join(", ")}; Diagramm ${charts[0]} beschriftet`);
+  console.log(`theme "${THEME.name}"; Morph on slides ${MORPH_SLIDES.join(", ")}; labels added to ${charts[0]}`);
 })().catch((e) => {
-  console.error("Fehler:", e.message);
+  console.error("Error:", e.message);
   process.exit(1);
 });
