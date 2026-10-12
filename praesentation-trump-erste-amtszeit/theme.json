@@ -1,0 +1,17 @@
+{
+  "name": "Erste Amtszeit",
+  "colors": {
+    "dk1": "0B1E3B",
+    "lt1": "FFFFFF",
+    "dk2": "55607A",
+    "lt2": "EEF1F6",
+    "accent1": "E81B23",
+    "accent2": "152B50",
+    "accent3": "B8C4D6",
+    "accent4": "8A97AD",
+    "accent5": "2F6DB5",
+    "accent6": "FF4D57",
+    "hlink": "E81B23",
+    "folHlink": "B5121B"
+  }
+}
